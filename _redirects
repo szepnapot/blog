@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://happy-fermat-b86392.netlify.com/* https://pocok.dev/:splat 301!
